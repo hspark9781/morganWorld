@@ -26,3 +26,5 @@
 ## git diff
 
 - 이전 기록(commit)을 기준을 변경사항을 본다.
+
+### pull request 숙지하기
